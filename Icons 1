@@ -1,9 +1,0 @@
-[
-  {"name":"imdb","url":"https://cdn-icons-png.flaticon.com/512/889/889140.png"},
-  {"name":"tmdb","url":"https://cdn-icons-png.flaticon.com/512/5968/5968855.png"},
-  {"name":"metacritic","url":"https://cdn-icons-png.flaticon.com/512/5968/5968885.png"},
-  {"name":"tomatometer","url":"https://cdn-icons-png.flaticon.com/512/4359/4359963.png"},
-  {"name":"popcornmeter","url":"https://cdn-icons-png.flaticon.com/512/1046/1046784.png"},
-  {"name":"letterboxd","url":"https://cdn-icons-png.flaticon.com/512/5968/5968866.png"},
-  {"name":"trakt","url":"https://cdn-icons-png.flaticon.com/512/5968/5968874.png"}
-]
