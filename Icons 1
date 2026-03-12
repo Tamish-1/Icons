@@ -1,0 +1,30 @@
+[
+  {
+    "name": "imdb",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1024px-IMDB_Logo_2016.svg.png"
+  },
+  {
+    "name": "tmdb",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/1024px-Tmdb.new.logo.svg.png"
+  },
+  {
+    "name": "tomatometer",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rotten_Tomatoes.svg/1024px-Rotten_Tomatoes.svg.png"
+  },
+  {
+    "name": "popcornmeter",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rotten_Tomatoes.svg/1024px-Rotten_Tomatoes.svg.png"
+  },
+  {
+    "name": "metacritic",
+    "url": "https://static.metacritic.com/images/icons/metacritic-icon.png"
+  },
+  {
+    "name": "letterboxd",
+    "url": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png"
+  },
+  {
+    "name": "trakt",
+    "url": "https://walter.trakt.tv/hotlink-ok/public/favicon.ico"
+  }
+]
